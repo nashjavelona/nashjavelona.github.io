@@ -1,0 +1,14 @@
+NASH JAVELONA - GENERAL PORTFOLIO
+
+This is a general-purpose portfolio for international AI Automation and Technical VA roles.
+
+Upload the CONTENTS of this folder to your public GitHub repository nashjavelona.github.io, not the ZIP itself and not the parent folder. index.html must be at the repository root.
+
+Before uploading, review the resume and any personal contact details. This folder intentionally includes only static website files. Do not upload private project archives, n8n credentials, API keys or customer records.
+
+After uploading, use Settings > Pages > Deploy from a branch > main > /(root) > Save if GitHub Pages isn't already enabled.
+
+Main URL when deployed: https://nashjavelona.github.io/
+Project-specific URL: https://nashjavelona.github.io/projects/glowflow/index.html
+
+The GlowFlow CRM dashboard is a local demonstration, not a live shared CRM. The live integrations require future work.
